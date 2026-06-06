@@ -1,6 +1,6 @@
 # JHolograms
 
-**Advanced holograms built on Minecraft's modern Display entities** — no ProtocolLib, no armor stands, no client mods. JHolograms uses the native `TextDisplay`, `ItemDisplay`, and `BlockDisplay` entities introduced in 1.19.4, giving you crisp, lightweight holograms with full control over text, items, blocks, color, animation, and visibility.
+**Advanced holograms built on Minecraft's modern Display entities** no ProtocolLib, no armor stands, no client mods. JHolograms uses the native `TextDisplay`, `ItemDisplay`, and `BlockDisplay` entities introduced in 1.19.4, giving you crisp, lightweight holograms with full control over text, items, blocks, color, animation, and visibility.
 
 Built for Paper **1.19.4 through 1.21.x**, with optional PlaceholderAPI integration.
 
